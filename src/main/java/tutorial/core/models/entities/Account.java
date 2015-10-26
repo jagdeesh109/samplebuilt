@@ -5,7 +5,7 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 
 /**
- * Created by Chris on 6/28/14.
+ * Created by Chris on 6/28/14. and modified on 26/10/2015 8:30pm IST
  */
 @Entity
 public class Account {
